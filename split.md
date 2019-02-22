@@ -1,5 +1,4 @@
-'''python
-
+```python
 import numpy as np
 
 
@@ -29,4 +28,4 @@ a, b, c = int(a),int(b),int(c)
 temp = fun(a,b,c)
 check(temp)
 
-'''
+```
